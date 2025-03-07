@@ -1,2 +1,2 @@
-# crispy_kitchen
+# crispy-kitchen
 Maqueta de práctica HTML/CSS
